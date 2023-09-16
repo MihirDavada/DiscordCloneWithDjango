@@ -17,10 +17,22 @@ This project is a simplified clone of the popular communication platform Discord
 **How to Use**
 
   - Clone this repository to your local machine.
-  - Set up the virtual environment and activate it.
-  - Configure your Django settings and set up the database.
-  - Run the development server with python manage.py runserver.
-  - Access the app in your web browser and start exploring the Discord clone.
+  - Go To The DiscordCloneWithDjango
+    - Set-ExecutionPolicy Unrestricted -Scope Process
+    - DjangoVirtualEnv\Scripts\activate
+    - cd .\StudyChatRoom\
+    - python manage.py runserver
+
+- images
+
+![image](https://github.com/MihirDavada/DiscordCloneWithDjango/assets/101976200/69f3c79b-152a-4e72-a954-f3f1be236252)
+
+![image](https://github.com/MihirDavada/DiscordCloneWithDjango/assets/101976200/282d2a2a-8761-4935-98db-f07f3e8c9d60)
+
+![image](https://github.com/MihirDavada/DiscordCloneWithDjango/assets/101976200/8dbde0cc-b4ae-4b69-a707-f43757347e41)
+
+![image](https://github.com/MihirDavada/DiscordCloneWithDjango/assets/101976200/301f15ea-6afd-4bb9-9746-36e011527511)
+
 
 **Contribution**
 Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. Your contributions can help enhance this Discord clone and make it even more feature-rich.
